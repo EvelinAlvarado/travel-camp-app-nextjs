@@ -31,7 +31,6 @@ describe("NavBar Component at 1024px (desktop view)", () => {
 
   test("should render the correct number of navigation links", () => {
     const navLinks = screen.getAllByRole("link");
-    console.log(navLinks.length);
     expect(navLinks.length).toBe(6);
   });
 });
