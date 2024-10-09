@@ -31,7 +31,11 @@ The page is fully **responsive**, ensuring an optimal user experience on devices
 ## Screenshots
 
 <div align="center">
-  <img src="src/assets/memories-album-app.jpg" width="80%" />
+  <img src="public/camp-travel-project.png" width="80%" />
+</div>
+
+<div align="center">
+  <img src="public/tests.jpg" width="300px" />
 </div>
 
 ## Live Demo
